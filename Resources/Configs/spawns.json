@@ -1,0 +1,70 @@
+[
+    {
+        "QuestId": "6833b8bc6f8ce71072c4e703",
+        "LocationID": "woods",
+        "BundleName": "bodies.bundle",
+        "PrefabName": "wildman_1",
+        "Position": {
+            "x": "91.6219",
+            "y": "16.7",
+            "z": "-845.9562"
+        },
+        "Rotation": {
+            "x": 270.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "RequiredQuestStatuses": [
+            "Started"
+        ],
+        "ExcludedQuestStatuses": [
+            "Success"
+        ]
+    },
+    {
+        "QuestId": "6833b8bc6f8ce71072c4e703",
+        "QuestStatus": "Started",
+        "LocationID": "woods",
+        "BundleName": "bodies.bundle",
+        "PrefabName": "wildman_3",
+        "Position": {
+            "x": "-173.9345",
+            "y": "12.48",
+            "z": "-691"
+        },
+        "Rotation": {
+            "x": 270.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "RequiredQuestStatuses": [
+            "Started"
+        ],
+        "ExcludedQuestStatuses": [
+            "Success"
+        ]
+    },
+    {
+        "QuestId": "6833b8bc6f8ce71072c4e703",
+        "QuestStatus": "Started",
+        "LocationID": "woods",
+        "BundleName": "bodies.bundle",
+        "PrefabName": "wildman_1",
+        "Position": {
+            "x": "81.113",
+            "y": "22.1854",
+            "z": "-412.45330"
+        },
+        "Rotation": {
+            "x": 270.0,
+            "y": 0.0,
+            "z": 0.0
+        },
+        "RequiredQuestStatuses": [
+            "Started"
+        ],
+        "ExcludedQuestStatuses": [
+            "Success"
+        ]
+    }
+]
